@@ -1,6 +1,6 @@
 # Hey there! ✨
 
-I'm Rebecca and this is the beginning of my web development adventure!
+I'm Rebecca and this is the beginning of my web development journey!
 
 Right now I'm packing my backpack 🎒 with the necessary tools 🛠️, which are: 
 
@@ -8,5 +8,3 @@ Right now I'm packing my backpack 🎒 with the necessary tools 🛠️, which a
 - CSS
 - JavaScript
 - React
-
-  
