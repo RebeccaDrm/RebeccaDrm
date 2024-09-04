@@ -9,7 +9,7 @@ I am excited to explore new technologies and improve my skills.
 <ins>Currently I am learning the following tools:</ins> 
 
 - GitHub
-- HTML
+- HTML5
 - CSS
 - JavaScript
 - React
