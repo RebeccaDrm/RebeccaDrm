@@ -14,12 +14,4 @@ I am excited to explore new technologies and improve my skills.
 - JavaScript
 - React
 
-<ins>In my free time I am interested in:</ins>
-
-- Photography 📸
-- Nature 🌲
-- Music 🎵
-- Cats 🐱
-- Travelling ✈️
-
 
