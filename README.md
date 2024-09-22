@@ -22,8 +22,4 @@ I am excited to explore new technologies and improve my skills.
 - Cats 🐱
 - Travelling ✈️
 
-#
 
-And don't forget to
-
-![think twice, code once](https://quotefancy.com/media/wallpaper/thumb/6538130-Waseem-Latif-Quote-Think-twice-code-once.jpg)
