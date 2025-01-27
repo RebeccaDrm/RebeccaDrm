@@ -6,12 +6,14 @@ Graduate of the Web Development Bootcamp at [neuefische](https://www.neuefische.
 
 I am excited to explore new technologies and improve my skills.
 
-<ins>Currently I am learning the following tools:</ins> 
+<ins>My skills so far:</ins> 
 
 - GitHub
 - HTML5
 - CSS
 - JavaScript
 - React
+
+additional skils: photography, painting
 
 
