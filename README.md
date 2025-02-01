@@ -16,4 +16,5 @@ I am excited to explore new technologies and improve my skills.
 
 additional skils: photography, painting
 
+Prtoject: <a href="https://activity-planner-liart.vercel.app/" target="_blank">Activity Planner</a> 
 
