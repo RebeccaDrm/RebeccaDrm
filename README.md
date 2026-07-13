@@ -2,7 +2,7 @@
 ### Hey, I'm Rebecca.
 Welcome to my little coding world. ✨
 
-I recently completed an intensive Web Development Bootcamp at [neuefische](https://www.neuefische.de/) and I am excited to explore new technologies and improve my skills while working on cool projects. :)
+A few years ago I completed an intensive Web Development Bootcamp at [neuefische](https://www.neuefische.de/) and I am excited to explore new technologies and improve my skills while working on cool projects. :)
 
 Feel free to talk 💬 with me about anything tech, music & concerts 🤘, movies, photography, design & art or travelling. 
 
