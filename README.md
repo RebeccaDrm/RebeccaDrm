@@ -14,5 +14,5 @@ Feel free to talk 💬 with me about anything tech, music & concerts 🤘, movie
 - JavaScript
 - React
 
-Projects: <a href="https://activity-planner-liart.vercel.app/" target="_blank">Activity Planner</a> · <a href="https://rebeccadrm.github.io/Photography/" target="_blank">Photography Website</a> 
+Projects: · <a href="https://rebeccadrm.github.io/Photography/" target="_blank">Photography Website</a> 
 
